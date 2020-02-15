@@ -18,3 +18,7 @@ Each resource will have a tag for which of the three above criteria apply.
 ### General
 - [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
 - [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
+
+## DevOps
+- [Complete Intro to Containers](https://btholt.github.io/complete-intro-to-containers)
+
