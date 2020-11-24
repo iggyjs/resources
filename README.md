@@ -29,3 +29,5 @@ Each resource will have a tag for which of the three above criteria apply.
 ## DevOps
 
 - [Complete Intro to Containers](https://btholt.github.io/complete-intro-to-containers)
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Linux Journey](https://linuxjourney.com/)
